@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\C#\Three_Layer_Model\DTO\obj\Debug\DTO.pdb
